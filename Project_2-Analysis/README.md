@@ -4,7 +4,7 @@
 
 As an MBA graduate specializing in Marketing and International Business, I am building my analytical skills to pursue a career as a Data Analyst. After completing my first Excel Salary Dashboard project, I wanted to explore the data job market in greater depth and understand which skills are in demand and how they relate to salary levels.
 
-The purpose of this project is to analyze real-world data job postings to identify salary trends, compare opportunities across regions, and explore the most востребованные skills in the data industry.
+The purpose of this project is to analyze real-world data job postings to identify salary trends, compare opportunities across regions, and explore the most profitable skills in the data industry.
 
 Through this project, I aim to strengthen my Excel-based data analysis skills and better understand the technical skills that can help me prepare for Data Analyst and Business Analyst roles.
 
