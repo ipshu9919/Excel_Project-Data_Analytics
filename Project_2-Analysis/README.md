@@ -191,3 +191,7 @@ This project is the second step in my Data Analyst learning journey. Building on
 By using Excel features such as Power Query, PivotTables, DAX, Power Pivot, and PivotCharts, I developed a deeper understanding of data cleaning, data modeling, calculations, and visualization.
 
 This project strengthened my ability to approach business questions analytically and present findings in a structured way. I will continue building my portfolio through projects that apply Excel, SQL, Power BI, and Python to practical data analysis problems.
+
+## Acknowledgements
+
+I would like to thank Luke Barousse for his educational content and guidance, which helped me learn and practice Excel-based data analysis. This project is part of my ongoing journey to develop practical analytical skills.
