@@ -19,7 +19,7 @@ To better understand the data job market, I explored the following questions:
 
 ### Analysis File
 
-My analysis file is in [1_Project_Analysis.xlsx](1_Salary_Dashboard.xlsx).
+My analysis file is in [Project_2-Analysis](1_Project_Analysis.xlsx).
 
 ### Excel Skills Used
 
