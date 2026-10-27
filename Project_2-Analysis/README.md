@@ -17,6 +17,10 @@ To better understand the data job market, I explored the following questions:
 3. **What are the top skills required for data professionals?**
 4. **What is the pay associated with the top 10 skills?**
 
+### Analysis File
+
+My final dashboard is in [1_Project_Analysis.xlsx](1_Salary_Dashboard.xlsx).
+
 ### Excel Skills Used
 
 The following Excel skills were utilized for analysis:
