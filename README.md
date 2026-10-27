@@ -28,11 +28,8 @@ An Excel-based analysis exploring the relationship between skills and salaries, 
 
 **Skills:** Excel, Power Query, PivotTables, Power Pivot, DAX, PivotCharts
 
-[View Project](./Project_2)
+[1_Project_Analysis.xlsx](1_Project_Analysis.xlsx)
 
-## 📚 Learning & Acknowledgements
-
-I'm building my data analytics skills through structured learning and hands-on practice. My projects are inspired by the learning resources and guidance of Luke Barousse, whose tutorials have helped me develop practical skills in data analysis.
 
 ## 🎯 Current Goal
 
