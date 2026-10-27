@@ -21,14 +21,14 @@ An interactive dashboard exploring salary trends across data-related job titles,
 
 **Skills:** Excel, Charts, Formulas, Data Validation
 
-[📊 Project_1](./Project_1-Dashboard/1_Salary_Dashboard.xlsx)
+[📊1_Salary_Dashboard](./Project_1-Dashboard/1_Salary_Dashboard.xlsx)
 
 ### 2. Data Jobs Market Analysis
 An Excel-based analysis exploring the relationship between skills and salaries, regional salary differences, and the most in-demand skills in the data job market.
 
 **Skills:** Excel, Power Query, PivotTables, Power Pivot, DAX, PivotCharts
 
-[📊](./Project_2-Analysis/1_Project_Analysis.xlsx)
+[📊1_Project_Analysis](./Project_2-Analysis/1_Project_Analysis.xlsx)
 
 
 ## 🎯 Current Goal
