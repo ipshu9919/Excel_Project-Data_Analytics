@@ -1,2 +1,39 @@
 # Excel_Project-Data_Analytics
-My project demonstratting my Excel skills.
+# Hi, I'm Ipshita Vishwakarma! 👋
+
+🎯 Aspiring Data Analyst | MBA Graduate
+
+I'm an MBA graduate specializing in Marketing and International Business, currently building my skills in data analytics. I'm interested in using data to uncover insights, understand business problems, and support data-driven decision-making.
+
+I'm developing my analytical skills through hands-on projects using Excel, SQL, Power BI, and Python.
+
+## 🛠️ Skills I'm Learning
+
+- **Excel:** Data Analysis, PivotTables, Power Query, Dashboards
+- **SQL:** Data Retrieval, Joins, Aggregations, and Data Analysis
+- **Power BI:** Data Visualization and Interactive Dashboards
+- **Python:** Data Analysis and Visualization
+
+## 📊 Projects
+
+### 1. Excel Salary Dashboard
+An interactive dashboard exploring salary trends across data-related job titles, countries, and employment types.
+
+**Skills:** Excel, Charts, Formulas, Data Validation
+
+[View Project](./Project_1)
+
+### 2. Data Jobs Market Analysis
+An Excel-based analysis exploring the relationship between skills and salaries, regional salary differences, and the most in-demand skills in the data job market.
+
+**Skills:** Excel, Power Query, PivotTables, Power Pivot, DAX, PivotCharts
+
+[View Project](./Project_2)
+
+## 📚 Learning & Acknowledgements
+
+I'm building my data analytics skills through structured learning and hands-on practice. My projects are inspired by the learning resources and guidance of Luke Barousse, whose tutorials have helped me develop practical skills in data analysis.
+
+## 🎯 Current Goal
+
+To continue strengthening my analytical skills, build practical projects, and prepare for entry-level Data Analyst and Business Analyst opportunities.
