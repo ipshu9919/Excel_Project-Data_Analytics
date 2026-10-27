@@ -12,7 +12,7 @@ Through this project, I applied my Excel skills to a practical analytical task a
 
 ### Dashboard File
 
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+My final dashboard is in [Salary Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
